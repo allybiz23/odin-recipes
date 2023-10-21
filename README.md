@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes in Odin!
+Recipes in Odin

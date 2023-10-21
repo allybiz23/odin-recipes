@@ -1,0 +1,20 @@
+h1 {
+    font-size: 10rem;
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    max-width: 75%;
+}
+
+.list {
+    list-style: none;
+    max-width: 75%;
+}
